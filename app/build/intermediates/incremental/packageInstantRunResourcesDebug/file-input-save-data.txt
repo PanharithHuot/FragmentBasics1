@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Thu Oct 13 08:37:30 ICT 2016
+1.base=/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_/res/layout-large-v4/news_articles.xml
+1.file=/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+4.set=ANDROID_RESOURCE
+2.base=/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_/res/layout/news_articles.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.file=/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+4.base=/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_

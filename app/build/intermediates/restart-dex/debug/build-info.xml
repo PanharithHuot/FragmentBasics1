@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="2690346112274"
+    token="-5528984846337757360"
+    verifier="METHOD_ADDED" >
+
+    <task
+        name="javac"
+        duration="660" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="113" />
+    <task
+        name="verifier"
+        duration="65" />
+
+    <artifact
+        location="/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="2411466465525"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="2690346112274"
+        verifier="METHOD_ADDED" >
+        <artifact
+            location="/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="4874067763839"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

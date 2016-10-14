@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/huotpanharith/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_50311b351d9e2e2991808520fa2bbb5143568947/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cd6ffd19d82902e52b37b7ecfe4e94b9b5e5816a">
+        <dex dex="/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5366bed7f9f639cfa964ca56c88a35392eb8a150/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7b400ca3b33cec7bc21c5730855aaf1cc8882df8">
+        <dex dex="/Users/huotpanharith/Documents/workspace/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a71bd20384890f626b9cad72d062bbe869256556/classes.dex" />
+    </item>
+
+</items>
